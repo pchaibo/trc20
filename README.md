@@ -2,6 +2,6 @@
 # 加TG: https://t.me/syga22
 # 使用 golang +vlue 
 ## 支付地址生成和私钥生成
-！[image](https://github.com/pchaibo/trc20/blob/main/img/add.png)
+![image](https://github.com/pchaibo/trc20/blob/main/img/add.png)
 ## 用户收款记录
-！[image](https://github.com/pchaibo/trc20/blob/main/img/user.png)
+![image](https://github.com/pchaibo/trc20/blob/main/img/user.png)
