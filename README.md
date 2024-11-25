@@ -1,5 +1,5 @@
 # 提供波场TRON trc20支付接口代码，扫区块通知回调api
-# 加TG: @syga22
+# 加TG: @zhang8080
 # 使用 golang +vlue 
 ## 支付地址生成和私钥生成
 ![image](https://github.com/pchaibo/trc20/blob/main/img/add.png)
